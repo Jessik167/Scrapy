@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="ouo.press, short links, link shortener, free URL shortener">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Free URL shorten service - ouo.press</title>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Questrial" type="text/css" />
+<link rel="stylesheet" href="https://ouo.press/css/bootstrap.css" type="text/css" />
+<link rel="stylesheet" href="https://ouo.press/css/link-safe.css" type="text/css" />
+<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+<script type='text/javascript' src='//bl0uxepb4o.com/1487d0aa92bbdf38a6ab4315bd3ff4b2/invoke.js'></script>
+<script data-cfasync='false' type='text/javascript'>
+        ;(function(o) {
+            var w=window.top,a='apdAdmin',ft=w.document.getElementsByTagName('head')[0],
+            l=w.location.href,d=w.document;w.apd_options=o;
+            if(l.indexOf('disable_fi')!=-1) { console.error("disable_fi has been detected in URL. FI functionality is disabled for this page view."); return; }
+            var fiab=d.createElement('script'); fiab.type = 'text/javascript';
+            fiab.src=o.scheme+'ecdn.analysis.fi/static/js/fab.js';fiab.id='fi-'+o.websiteId;
+            ft.appendChild(fiab, ft);if(l.indexOf(a)!=-1) w.localStorage[a]=1; var aM = w.localStorage[a]==1, fi=d.createElement('script'); 
+            fi.type='text/javascript'; fi.async=true; if(aM) fi['data-cfasync']='false';
+            fi.src=o.scheme+(aM?'cdn':'ecdn') + '.firstimpression.io/' + (aM ? 'fi.js?id='+o.websiteId : 'fi_client.js');
+            ft.appendChild(fi);
+        })({ 
+            'websiteId': 7419, 
+            'scheme':    '//'
+        });
+    </script>
+<script>
+	var verifyCallback = function(e) {
+		document.getElementById("form-captcha").submit()
+	};
+	var onloadCallback = function() {
+		grecaptcha.render("captcha", {
+			sitekey: "6LegWQETAAAAAIIaaAhEnrkimbuOF5QJb0ZiYEK7",
+			callback: verifyCallback
+		})
+	};
+	</script>
+</head>
+<body>
+<header>
+<nav class="navbar navbar-default navbar-top">
+<div class="container">
+<div class="col-md-12">
+<div class="navbar-header page-scroll">
+<a class="navbar-brand" href="//ouo.press/">ouo.press</a>
+</div>
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav navbar-right">
+<li><a href="//ouo.press/">Home</a></li>
+<li><a href="//ouo.press/#shorten-form">Shorten link</a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<section class="content">
+<div class="container">
+<div class="row">
+<div class="col-md-6 col-md-offset-3">
+<div class="skip-container">
+<div class="text-center">
+<h4 class="fadein"><span class="highlight-green">✔</span> This link is <span class="highlight-green">safe</span></h4>
+<h5>Please click the captcha box to verify you are a human.</h5>
+<div id="M330748ScriptRootC228937">
+<div id="M330748PreloadC228937">
+Loading... </div>
+<script>
+                                        (function(){
+                                    var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:';
+                                    var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M330748ScriptRootC228937")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+                                    catch(e){var iw=d;var c=d[gi]("M330748ScriptRootC228937");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=228937;c[ac](dv);
+                                    var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.adskeeper.co.uk/o/u/ouo1.press.228937.js?t="+D.getUTCFullYear()+D.getUTCMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})();
+                            </script>
+</div>
+<form method="POST" action="https://ouo.press/go/DpLre4" accept-charset="UTF-8" id="form-captcha"><input name="_token" type="hidden" value="Rj7UHUm4XCVZFa19bO0apgTkLRdMdDeJzRAnDgAf">
+<div id="captcha" class="center-captcha"></div>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+<noscript>
+									<div class="center-captcha" style="width: 302px; height: 352px;">
+										<div style="width: 302px; height: 352px; position: relative;">
+											<div style="width: 302px; height: 352px; position: absolute;">
+												<iframe src="https://www.google.com/recaptcha/api/fallback?k=6LegWQETAAAAAIIaaAhEnrkimbuOF5QJb0ZiYEK7" frameborder="0" scrolling="no"style="width: 302px; height:352px; border-style: none;"></iframe>
+											</div>
+											<div style="width: 250px; height: 80px; position: absolute; border-style: none; bottom: 21px; left: 25px; margin: 0px; padding: 0px; right: 25px;">
+												<textarea id="g-recaptcha-response" name="g-recaptcha-response"class="g-recaptcha-response" style="width: 250px; height: 80px; border: 1px solid #c1c1c1; margin: 0px; padding: 0px; resize: none;" value=""></textarea>
+											</div>
+										</div>
+									</div>
+									<input type="submit">
+								</noscript>
+</form>
+<span class="desc">Click <a href="//ouo.press/fbc/DpLre4">here</a> if you cannot submit the recaptcha.</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="about">
+<div class="container">
+<div class="row">
+<div class="col-md-offset-1 col-md-3">
+<img class="img-responsive" src="https://ouo.press/images/world.png">
+</div>
+<div class="col-md-6">
+<h2>Know a little about ouo.press</h2>
+<span class="dot"></span>
+<p>ouo.press is a free URL shortening service, all links generated by ouo.press are publicly available.</p>
+<p>All links are thoroughly verified for viruses, malware, phishing, malicious content, session stealing, cross-site scripting attacks, etc.</p>
+<a href="//ouo.press/">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="join-now">
+<div class="container">
+<div class="col-md-offset-1 col-md-10 text-center">
+<h2>Easy to use, free for everyone</h2>
+<span class="dot center"></span>
+<p>Shorten your URL with only one click, no registration needed, sharing the links with your family and friends.</p>
+<a class="btn-main" href="//ouo.press/#shorten-form">Shorten Now</a>
+</div>
+</div>
+</div>
+<div class="blog-post">
+<div class="container">
+<div class="col-md-offset-1 col-md-10 text-center">
+<h2>Check out our lastest blog post</h2>
+<span class="dot center"></span>
+<p>We would like to share our 7-years+ of website operation experience for you.</p>
+<img src="https://ouo.press/blog/images/hero/6.jpg">
+<div class="content">
+<p>The faster your site loads, the greater is the probability that you will be able to attract and engage more users.</p>
+<p>When it comes to website loading, virtually every second counts. 47 percent of users expect a website to load within 2 seconds. And 40 percent of your potential users will typically abandon a website if it takes more than 3 seconds to load.</p>
+<p>User experience is one of the most important reasons why you should optimize your website’s speed. This post will show you why your site should load as quickly as possible.</p>
+</div>
+<a href="//ouo.press/blog/2017/10/01/Free-Paid-or-Gated-Content/">Read more</a>
+</div>
+</div>
+</div>
+<div class="footer-copy">
+ <div class="container">
+<span>&copy; 2015. URL shorten service by <a href="//ouo.press/" target="_blank">ouo.press</a>.</span>
+<span class="pull-right"><a href="/cdn-cgi/l/email-protection#5a3e37393b1a352f35742a283f2929">DMCA</a></span>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
